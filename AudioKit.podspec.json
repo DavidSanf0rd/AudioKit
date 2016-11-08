@@ -38,7 +38,7 @@
         "source_files": "tvOS/AudioKit.framework/Headers/*.h",
         "public_header_files": "tvOS/AudioKit.framework/Headers/*.h",
         "vendored_frameworks": "tvOS/AudioKit.framework"
-    }
+    },
     "watchos": {
         "source_files": "tvOS/AudioKit.framework/Headers/*.h",
         "public_header_files": "tvOS/AudioKit.framework/Headers/*.h",
