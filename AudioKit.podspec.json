@@ -40,8 +40,8 @@
         "vendored_frameworks": "tvOS/AudioKit.framework"
     },
     "watchos": {
-        "source_files": "tvOS/AudioKit.framework/Headers/*.h",
-        "public_header_files": "tvOS/AudioKit.framework/Headers/*.h",
-        "vendored_frameworks": "tvOS/AudioKit.framework"
+        "source_files": "watchOS/AudioKit.framework/Headers/*.h",
+        "public_header_files": "watchOS/AudioKit.framework/Headers/*.h",
+        "vendored_frameworks": "watchOS/AudioKit.framework"
     }
 }
